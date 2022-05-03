@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=th3qui85ly&theme=radical&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theatulanand&theme=radical&background=000000)](https://git.io/streak-stats)
 
 [![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=theatulanand&theme=radical)](https://github.com/theatulanand/github-readme-stats)
 
