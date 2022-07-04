@@ -14,7 +14,7 @@
 <a href="https://github.com/theatulanand?tab=followers"><img src="https://img.shields.io/github/followers/theatulanand?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
     Hey, I'm Atul Kumar
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
   </h1>
 </div>
 <div align="center">
